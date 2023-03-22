@@ -1,0 +1,3 @@
+# bdq
+
+Black Duck Client
